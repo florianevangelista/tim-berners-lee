@@ -1,4 +1,4 @@
-# tim-berners-lee: <a href="https://florianevangelista.github.io/tim-berners-lee/" target="_blank">My project</a>
+# tim-berners-lee: <a href="https://florianevangelista.github.io/tim-berners-lee/">My project</a>
 
 
 As part of my apprenticeship at Be code, I created a web page on Mr Tim Berners-Lee. To perform this exercise, I used HTML to structure my page and then stylized it with CSS.
