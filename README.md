@@ -5,4 +5,4 @@ As part of my apprenticeship at Be code, I created a web page on Mr Tim Berners-
 
 ## Debriefing :
 
-I encountered some difficulties during the arrangement of the images, but I was able to fix the problem thanks to flex-box.
+I encountered some difficulties when arranging aevc float images, but I was able to fix the problem thanks to flex-box.
