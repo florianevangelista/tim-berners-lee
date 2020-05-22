@@ -1,0 +1,119 @@
+body {
+  background-color: #ebebeb; }
+
+main {
+  background-color: #fff;
+  width: 50%;
+  margin: 40px auto 0 auto;
+  padding-top: 20px; }
+
+main img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 5px solid #d2d2d2; }
+
+#head {
+  margin-top: 20px;
+  padding: 0 30px 20px 30px; }
+
+main #head h1 {
+  text-align: center;
+  font-size: 33px;
+  color: #dd5555;
+  font-family: 'Open Sans', sans-serif; }
+
+main #head h2 {
+  text-align: center;
+  color: #87929f;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 550; }
+
+main #head p {
+  display: block;
+  margin-top: 35px;
+  text-align: justify;
+  color: #87929f;
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif; }
+
+#button {
+  display: block;
+  background-color: #dd5555;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  width: 120px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif; }
+
+.quick-link {
+  background-color: #fff;
+  width: 50%;
+  margin: 40px auto 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 90px 0 75px 0; }
+
+.quick-link a {
+  width: 15%;
+  text-align: center;
+  height: 100px;
+  margin: 0 20px;
+  text-decoration: none;
+  color: #ADADAD;
+  font-family: 'Open Sans', sans-serif; }
+
+section {
+  background-color: #fff;
+  width: 50%;
+  margin: 40px auto 0 auto; }
+
+section h2 {
+  text-align: center;
+  font-size: 25px;
+  color: #87929f;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 550;
+  padding: 40px 0 60px 0; }
+
+section img {
+  margin-left: 50px; }
+
+.movies {
+  display: flex;
+  margin-bottom: 100px; }
+
+.text-movie {
+  margin-left: 30px; }
+
+.text-movie h3 {
+  color: #87929f;
+  font-size: 21px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 550;
+  text-align: center; }
+
+.text-movie p {
+  text-align: justify;
+  color: #87929f;
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  padding-right: 50px; }
+
+.pb-section {
+  padding-bottom: 70px; }
+
+.social:hover {
+  color: #3ac4ea; }
+
+.social2:hover {
+  font-weight: bold; }
+
+.radius {
+  border-radius: 5px; }
